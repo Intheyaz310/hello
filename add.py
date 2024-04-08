@@ -1,5 +1,5 @@
-a = int(input("enter the first value"))
-b = int(input("enter the second value"))
+a = 10
+b = 10
 print("sum of the number is")
 print(a+b)
 
